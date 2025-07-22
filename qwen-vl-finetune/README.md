@@ -36,6 +36,8 @@ You could use follow version of packages:
 - `triton==3.0.0`
 - `accelerate==1.4.0`
 - `torchcodec==0.2`
+- `datasets`
+- `decord`
 
 ## Custom Dataset Configuration
 
