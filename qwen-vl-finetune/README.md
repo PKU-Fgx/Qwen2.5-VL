@@ -39,6 +39,10 @@ You could use follow version of packages:
 - `datasets`
 - `decord`
 
+You need to install `FFmpeg`:
+
+- `conda install -c conda-forge ffmpeg`
+
 ## Custom Dataset Configuration
 
 The customized data should have the format like:
