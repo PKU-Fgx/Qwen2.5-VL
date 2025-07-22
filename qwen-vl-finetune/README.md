@@ -38,6 +38,7 @@ You could use follow version of packages:
 - `torchcodec==0.2`
 - `datasets`
 - `decord`
+- `swanlab`
 
 You need to install `FFmpeg`:
 
